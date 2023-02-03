@@ -1,0 +1,7 @@
+﻿  Caclulator_Classes.cpp
+C:\Users\Dell\OneDrive\Desktop\Personal\Algorithms and Data Structures\Caclulator_Classes\Caclulator_Classes.cpp(46,28): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Caclulator_Classes.vcxproj -> C:\Users\Dell\OneDrive\Desktop\Personal\Algorithms and Data Structures\Caclulator_Classes\x64\Debug\Caclulator_Classes.exe

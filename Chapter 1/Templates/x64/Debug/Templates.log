@@ -1,0 +1,7 @@
+﻿  Templates.cpp
+C:\Users\Dell\OneDrive\Desktop\Personal\Algorithms and Data Structures\Templates\Templates.cpp(57,36): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Templates.vcxproj -> C:\Users\Dell\OneDrive\Desktop\Personal\Algorithms and Data Structures\Templates\x64\Debug\Templates.exe
